@@ -1,0 +1,12 @@
+{
+  "name": "token-engineering",
+  "description": "Cut LLM API costs: audit prompts for cache busters, set up prompt caching, fingerprint and measure hit rates, estimate costs, and plan batch/flex workloads across Anthropic, OpenAI and Google.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Rahul Sumbly",
+    "url": "https://rahul.sumbly.tech"
+  },
+  "homepage": "https://rahul.sumbly.tech/blog/llm-token-engineering/",
+  "repository": "https://github.com/Rahul-s-007/resources",
+  "keywords": ["llm", "prompt-caching", "batch-api", "cost-optimization", "tokens"]
+}

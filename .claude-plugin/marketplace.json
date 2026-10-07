@@ -1,0 +1,15 @@
+{
+  "name": "rahul-resources",
+  "owner": {
+    "name": "Rahul Sumbly",
+    "url": "https://rahul.sumbly.tech"
+  },
+  "plugins": [
+    {
+      "name": "token-engineering",
+      "source": "./token-engineering",
+      "description": "Cut LLM API costs: prompt caching audits, fingerprinting, cost estimates and batch planning. Companion to the LLM Token Engineering blog post.",
+      "category": "development"
+    }
+  ]
+}
